@@ -1,4 +1,4 @@
-package com.rmembersetgamepad;
+package com.wfofthfoodapp;
 
 import com.facebook.react.ReactActivity;
 

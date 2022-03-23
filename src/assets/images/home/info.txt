@@ -1,0 +1,32 @@
+Name app: WF App - World of the food
+Apkname: com.wfofthfoodapp
+
+
+
+Moo ta ngan:
+What is the reward in the envelope?
+ Mo ta dai:
+
+Mini app that simulates the opening of an envelope
+Display virtual gifts with personal value for you
+Can be applied in reality as a small game, very interesting and unexpected
+
+
+
+cách làm, làm giao diện như hình mau1.png và mau2.pgn
+Ng dung click vao phong bì thì nó rung rung , cho click random 2-5 lần thì hiện ra 
+Popup báo mở phong bì thành công và dc phần thưởng bn $ đó tuỳ ý, random 10-1000$
+
+1 lần mở tốn 1 use
+
+
+mặc định có 10 use
+
+click vào nút bên trái để mua hàng
+
+
+Use : 50,100,150,200
+Price: 0.99,1.99,4.99,9.99
+
+Sub:200,500
+Price: 10$/week, 20$/tháng
